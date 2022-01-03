@@ -1,4 +1,4 @@
-## 📚Dio Spread  https://github.com/fabiopedroza/DIO-Desafios/blob/master/imagens/java.png
+## 📚Dio Spread  https://github.com/fabiopedroza/DIO-Desafios/imagens/java.png
 
 
 
